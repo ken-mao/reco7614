@@ -1,0 +1,16 @@
+{
+"companyName": "BIMNITY",
+"productName": "Session3_Demo",
+"productVersion": "0.1",
+"dataUrl": "Webgl.data.unityweb",
+"wasmCodeUrl": "Webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "Webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#8259A3",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.30f1"
+}
